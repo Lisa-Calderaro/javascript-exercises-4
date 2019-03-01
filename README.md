@@ -1,1 +1,4 @@
 # javascript-exercises-4
+Control Flow / Logical Operators / If/Else Statements
+
+The else statements must follow the initial If statement and will only be evaluated if the initial if statement returns false. Only one if or else if statement code block will be run. If at any time a statement returns true, that code will be run and the rest will be skipped: The lse statement will always come at the end of an if-else-if chain, and will act as a default. If none of the expressions returned true, the else code block will be run no matter what. If any of the previous if or else if expressions are true, the else statement code block will not be run. 
